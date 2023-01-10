@@ -3,4 +3,4 @@ Välkommen! Till och från händer det att jag dyker ner i olika ämnen, oftat r
 
 ## Ämnen
 
-- [Trädgård](./tradgard/)
+- [Trädgård](./tr%C3%A4dg%C3%A5rd/)
