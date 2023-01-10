@@ -32,3 +32,9 @@ Under 100 cm i höjd: 5 per meter
 - Vattna!
 
 Vattna ordentligt första växtsäsongen så plantorna inte torkar ut. Använd slang eller droppbevattning 20-30 min varje vecka när marken är torr. Äldre plantor kräver bara vattning vid svår torka.
+
+## Bilder och övrigt
+
+![bild som visar utgrävning av diket där bokplantorna ska stå](./assets/bokhack01_medium.jpeg "Utgrävning")
+
+[Full bild](./assets/bokhack01.jpeg)
