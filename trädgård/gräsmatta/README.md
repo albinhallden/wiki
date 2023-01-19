@@ -22,7 +22,7 @@ Ytan som initialt skulle sås var på c.a 450 kvadratmeter så för att säkerst
 
 Varje uppmätt yta krattar vi med en grov kratta före vi sprider ut gräsfröna och därefter krattar vi igen med samma kratta, först på motsatt håll för att stänga dikena och sen igen på andra hållet. På sä sätt såg vi till att vi myllat ned och blandat gräsfröna i jorden.
 
-![en bild som visar hur vi när vi väger upp rätt antal gräsfrö på en köksvåg](./assets/gras02.jpeg)
+![en bild som visar hur vi myllar ner gräsfröna i marken](./assets/gras03.jpeg)
 
 Efter att hela utan ytan var sådd var det dags att vattna och eftersom detta var mitt under pandemin och både jag och min fru jobbade hemma så kunde vi se till att vattna lite men ofta, c.a 5-6 gånger per dag, så att jorden var konstant fuktig. Det tog en vecka innan de första grässtråna började titta upp och tre dagar senare hade vi grässtrån på 2 cm.
 När gräset var 6-7 cm högt klippte vi det första gången, och som man ska så klippte vi det max en tredjedel av gräsets höjd (ner till 4-5 cm). Detta gjorde vi manuellt med en klassisk "handjagare" eftersom den ger bästa möjliga snitt på gräset. Efter 1-2 veckor när gräset hade tagit sig ännu bättre gick vi över till den mer smidiga cylinderklipparen som vi hade. 
