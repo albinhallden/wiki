@@ -8,6 +8,7 @@ Välkommen! Till och från händer det att jag dyker ner i olika ämnen, oftat r
 - [Syrénbuskar](./tr%C3%A4dg%C3%A5rd/syrenbuskar/) - Projekt "välja och plantera häck mot granntomten"
 - [Planteringar](./tr%C3%A4dg%C3%A5rd/planteringar/) - Projekt "välja och plantera häck mot granntomten"
 - [Gräsmatta](./tr%C3%A4dg%C3%A5rd/gr%C3%A4smatta/) - Anläggning och skötsel av gräsmatta
+- [Skura altanen](./tr%C3%A4dg%C3%A5rd/skura-altanen/) - Hur vi gör rent och underhåller vår altan
 
 ### Hushåll
 - [Eget sköljmedel](./hush%C3%A5ll/eget-sk%C3%B6ljmedel/) - Ett enkelt "recept" på eget sköljmedel som vi använder hemma.
