@@ -1,4 +1,4 @@
-# Skrua altanen
+# Skura altanen
 
 Som så många andra har vi en klassisk altan i tryckimpregnerat virke på baksidan av huset mot trädgården. Här följer lite information om underhåll och dylikt.
 
