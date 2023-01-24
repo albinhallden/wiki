@@ -16,6 +16,8 @@ Vårt mål är att behandla altanen minst en gång om året, under våren, men v
 
 ### Gör rent altanen
 
+![en levang bredvid en skurhink](./assets/altantvatt02.jpeg)
+
 Om altanen är smutsig, t.ex. under grillen, har mossa eller alger som börjat växa, behöver man göra rent den före man behandlar.
 
 1. Sopa först av hela altanen från grov smuts, damm och dylikt. Därefter är det dagt att skrubba den i sektioner.
@@ -26,6 +28,10 @@ Om altanen är smutsig, t.ex. under grillen, har mossa eller alger som börjat v
 
 När hela altanen skrubbats kan du avsluta med att skölja av hela och låta det torka för att inspektera att all smuts är borta.
 
+Så här såg vår altan ut före och efter rengöring. Som ni ser är den gråa beläggningen helt borta och den ser fräsch och fin ut igen.
+
+![rengjord trall före och efter rengöring](./assets/altantvatt01.jpeg)
+
 ### Behandla altan
 
 När altanen är ren är det dags att behandla den, detta görs med kallt vatten + såpa.
@@ -34,3 +40,5 @@ När altanen är ren är det dags att behandla den, detta görs med kallt vatten
 1. Blanda 1 del såpa med 10 delar kallt vatten i skurhinken
 1. Dränk skurtrasan i hinken, lägg den sedan över lavangen och gå över hela altanen med den.
 1. Låt torka och upprepa för en lenare yta tills att du känner dig nöjd.
+
+![applicerar såpavatten på altandäcket](./assets/altantvatt03.jpeg)
