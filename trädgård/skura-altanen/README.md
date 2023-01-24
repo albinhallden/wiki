@@ -10,7 +10,7 @@ Vad som behövs för att göra rent + skura altanen:
 - En skurhink
 - En levang
 - En skurtrasa
-- Överfettad såpa, vi valde Helsingesåpa
+- Överfettad såpa, vi valde [Gysingesåpa](https://www.gysinge.com/products/5806/gysinges%C3%A5pa-5-liter).
 
 Vårt mål är att behandla altanen minst en gång om året, under våren, men vid behov plus om vi har tid kommer vi göra det även under sensommar/höst.
 
