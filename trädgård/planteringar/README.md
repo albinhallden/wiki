@@ -51,3 +51,11 @@ Perenn [_Astrantia major 'Venice'_](https://www.wexthuset.com//froer-lokar/peren
 
 **Skötselbehov**: 
 Generellt för perenn: När plantan har etablerat sig, klipper du ner den på våren och ger den lite gödsel så klarar den sig fint på egen hand. 
+
+## Övriga växter på altanen
+
+### Hortensia
+I kruka.
+
+**Skötselbehov**: Ska hållas fuktig, vattnas minst varannan vecka.
+Under juni, juli och augusti så är det dags att beskära skotten på din trädgårdshortensia
