@@ -28,7 +28,9 @@ Perenn [_alchemilla mollis_](https://www.wexthuset.com//froer-lokar/perenna-vaxt
 
 Väldigt fin på sommarnen men ganska vissen och tråkig på vintern.
 
-**Skötselbehov**: Inget.
+**Skötselbehov**: 
+Ta bort fjolårsblad tidigt på våren och dressa rabatten med R-dress
+Källa: [hasselforsgarden](https://www.hasselforsgarden.se/vaxtbibliotek/jattedaggkapa/)
 
 ### Glansmiskantus 'Little Zebra'
 Prydnadsgräs [_Miscanthus sinensis 'Little Zebra'_](https://www.wexthuset.com//froer-lokar/perenna-vaxter-och-buskar/prydnadsgras-i-kruka/prydnadsgras-miscanthus-little-zebra-2-liter)
