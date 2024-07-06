@@ -9,6 +9,7 @@ Välkommen! Till och från händer det att jag dyker ner i olika ämnen, oftat r
 - [Planteringar](./tr%C3%A4dg%C3%A5rd/planteringar/)
 - [Gräsmatta](./tr%C3%A4dg%C3%A5rd/gr%C3%A4smatta/)
 - [Skura altanen](./tr%C3%A4dg%C3%A5rd/skura-altanen/)
+- [Borra brunn](./tr%C3%A4dg%C3%A5rd/borra-brunn/)
 
 ### Hushåll
 - [Eget sköljmedel](./hush%C3%A5ll/eget-sk%C3%B6ljmedel/)
