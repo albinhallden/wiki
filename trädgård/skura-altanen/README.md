@@ -4,27 +4,28 @@ Som så många andra har vi en klassisk altan i tryckimpregnerat virke på baksi
 
 ## Rengöring och behandling
 
-Eftersom vi har en del björkar och tallar runt altanen och huset så får vi en hel del avfall från dem. Därmed har vi valt att behandla våran altan med såpa istället för olja, med en överfettad såpa. Anlednngen är att olja ger en fet yta där pollen och annat avfall lätt fastnar vilket inte lämpar sig i vårt fall. Såpa däremot ger en mer matt och len yta där smuts inte fastnar lika lätt. Dessutom är det ett mer miljövänligt alternativ. Mycket av processen kring att såpa ett golv fins att läsa hos [Västerbotten såpa](https://vasterbottenssapa.se/hur-sapar-man-tratrall/) men jag kommer att beskriva processen här med. 
+Eftersom vi har en del björkar och tallar runt altanen och huset så får vi en hel del avfall från dem. Därmed har vi valt att behandla våran altan med såpa istället för olja, med en överfettad såpa. Anledningen är att olja ger en fet yta där pollen och annat avfall lätt fastnar vilket inte lämpar sig i vårt fall. Såpa däremot ger en mer matt och len yta där smuts inte fastnar lika lätt. Dessutom är det ett mer miljövänligt alternativ. Processen kring att såpa ett golv fins att läsa hos [Västerbotten såpa](https://vasterbottenssapa.se/hur-sapar-man-tratrall/) men en kort summering följer nedan.
 
 Vad som behövs för att göra rent + skura altanen:
 - En skurhink
 - En levang
 - En skurtrasa
 - Överfettad såpa, vi valde [Gysingesåpa](https://www.gysinge.com/products/5806/gysinges%C3%A5pa-5-liter).
+- Såpa för rengöring. Här kan man använda samma överfettade såpa som till behandlingen men det är mer ekonomiskt att använda sig av vanlig gränsåpa här, t.ex. Grumme.
 
-Vårt mål är att behandla altanen minst en gång om året, under våren, men vid behov plus om vi har tid kommer vi göra det även under sensommar/höst.
+Vårt mål är att behandla altanen minst en gång om året, under våren.
 
 ### Gör rent altanen
 
 ![en levang bredvid en skurhink](./assets/altantvatt02.jpeg)
 
-Om altanen är smutsig, t.ex. under grillen, har mossa eller alger som börjat växa, behöver man göra rent den före man behandlar.
+Eftersom såpan ska tränga ner i träet är det bra om altanten fått torka upp samt att det är en mulen dag så att solen inte gör att det avdunstar för snabbt.
 
-1. Sopa först av hela altanen från grov smuts, damm och dylikt. Därefter är det dagt att skrubba den i sektioner.
-1. Blanda såpa + vatten enligt anvisning för rengöring
+1. Sopa först av hela altanen från grov smuts, damm och dylikt.
+1. Blanda såpa + vatten enligt anvisning för rengöring. I vårt fall har det varit 1DL Såpa per 10L vatten.
 1. Blötlägg en sektion eller ett par trallrader med vattenslangen.
-1. Började därefter skrubba hela sektionen/trallraden 
-1. Skölj av ytan och börja på nästa sektion
+1. Började därefter skrubba hela sektionen/trallraden.
+1. Skölj av ytan och börja på nästa sektion.
 
 När hela altanen skrubbats kan du avsluta med att skölja av hela och låta det torka för att inspektera att all smuts är borta.
 
