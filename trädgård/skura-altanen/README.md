@@ -6,10 +6,16 @@ Som så många andra har vi en klassisk altan i tryckimpregnerat virke på baksi
 
 Eftersom vi har en del björkar och tallar runt altanen och huset så får vi en hel del avfall från dem. Därmed har vi valt att behandla våran altan med såpa istället för olja, med en överfettad såpa. Anledningen är att olja ger en fet yta där pollen och annat avfall lätt fastnar vilket inte lämpar sig i vårt fall. Såpa däremot ger en mer matt och len yta där smuts inte fastnar lika lätt. Dessutom är det ett mer miljövänligt alternativ. Processen kring att såpa ett golv fins att läsa hos [Västerbotten såpa](https://vasterbottenssapa.se/hur-sapar-man-tratrall/) men en kort summering följer nedan.
 
-Vad som behövs för att göra rent + skura altanen:
-- En skurhink
-- En levang
-- En skurtrasa
+Stegen som krävs:
+- Göra rent
+- Slipa
+- Behandla
+
+Vad som behövs:
+- En hink för såpablandningen
+- En levang/skurborste. Alternativt en skurmasking, vi använder en Kärcher PCL 4. 
+- En mopp eller skurtrasa att sprida ut såpavattnet med
+- Sandpapper. Ett ledat slipverktyg är till stor hjälp
 - Överfettad såpa, vi valde [Gysingesåpa](https://www.gysinge.com/products/5806/gysinges%C3%A5pa-5-liter).
 - Såpa för rengöring. Här kan man använda samma överfettade såpa som till behandlingen men det är mer ekonomiskt att använda sig av vanlig gränsåpa här, t.ex. Grumme.
 
