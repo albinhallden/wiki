@@ -52,8 +52,8 @@ När altanen är ren är det dags att behandla den, detta görs med kallt vatten
 Eftersom såpan ska tränga ner i träet är det bra om altanten fått torka upp samt att det är en mulen dag så att solen inte gör att det avdunstar för snabbt.
 
 1. Se till att altanen är ren och är torr.
-1. Blanda 1L såpa med 10 delar kallt vatten i skurhinken (eller enligt din såpas anvisning)
-1. Dränk skurtrasan i hinken, lägg den sedan över lavangen och gå över hela altanen med den.
+1. Blanda 1L såpa med 10 delar kallt vatten i skurhinken (eller enligt din såpas anvisning).
+1. Sprid ut allt rikligt och jämnt över hela altanen.
 1. Låt torka och upprepa för en lenare yta tills att du känner dig nöjd.
   - Vi brukar behandla vår altan 2-3 gånger innan vi känner oss nöjda. 
 
