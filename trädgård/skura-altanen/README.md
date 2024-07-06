@@ -13,7 +13,7 @@ Stegen som krävs:
 
 Vad som behövs:
 - En hink för såpablandningen
-- En levang/skurborste. Alternativt en skurmasking, vi använder en Kärcher PCL 4. 
+- En levang/skurborste. Alternativt en skurmasking, vi använder en Kärcher PCL 4 som vi även hyr ut [på Hygglo.se](https://www.hygglo.se/i/5f3-karscher-pcl-4-terrassborste)
 - En mopp eller skurtrasa att sprida ut såpavattnet med
 - Sandpapper. Ett ledat slipverktyg är till stor hjälp
 - Överfettad såpa, vi valde [Gysingesåpa](https://www.gysinge.com/products/5806/gysinges%C3%A5pa-5-liter).
